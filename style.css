@@ -18,6 +18,11 @@
     -30px 20px 40px dimgrey;
 }
 
+body {
+  background-image: url('todo.PNG');
+}
+
+
 .done {
   text-decoration: line-through;
 }
